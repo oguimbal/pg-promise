@@ -1,5 +1,5 @@
 {
-  "name": "pg-promise",
+  "name": "@oguimbal/pg-promise",
   "version": "10.5.8",
   "description": "PostgreSQL interface for Node.js",
   "main": "lib/index.js",
@@ -42,6 +42,7 @@
   "dependencies": {
     "assert-options": "0.6.2",
     "pg": "8.2.2",
+    "pg-mem": "^1.0.10",
     "pg-minify": "1.6.1",
     "spex": "3.0.2"
   },
